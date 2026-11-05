@@ -1,88 +1,129 @@
-<div align="center">
 
-<picture>
-  <img src="assets/celestial-banner.gif" alt="Jiya Sahni — animated celestial universe" width="100%" />
-</picture>
+<!-- ✧ THE OBSERVER ✧ -->
 
-<img src="assets/celestial-avatar.svg" width="112" alt="JS celestial monogram" />
-
-# Jiya Sahni
-
-### CSE Student · Cybersecurity × AI/ML
-
-![Focus](https://img.shields.io/badge/FOCUS-Cybersecurity%20%C3%97%20AI%2FML-91dce5?style=for-the-badge)
-![Building](https://img.shields.io/badge/BUILDING-with%20curiosity-a995e8?style=for-the-badge)
-
-[![GitHub](https://img.shields.io/badge/GitHub-@jiyasahni--maker-e6b7d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyasahni-maker)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jiya--sahni2020-e6b7d8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-sahni2020)
-
-</div>
-
----
-
-## ✦ About me
-
-I build practical systems at the intersection of cybersecurity and machine learning — from phishing detection and explainable models to tools that verify information before you act on it.
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 🛡️ **Security interests:** Red Teaming, phishing detection, threat analysis
-- 🧠 **AI/ML interests:** Applied machine learning, ensemble models, explainable AI
-- 🌌 **Approach:** Build carefully, evaluate honestly, document limitations
-
-## ✦ Tech constellation
-
-![Python](https://img.shields.io/badge/-Python-a995e8?style=flat-square)
-![C](https://img.shields.io/badge/-C-a995e8?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-a995e8?style=flat-square)
-![React](https://img.shields.io/badge/-React-a995e8?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-a995e8?style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-a995e8?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-a995e8?style=flat-square)
-![XGBoost](https://img.shields.io/badge/-XGBoost-a995e8?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-a995e8?style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-a995e8?style=flat-square)
-![SHAP](https://img.shields.io/badge/-SHAP-a995e8?style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-a995e8?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-a995e8?style=flat-square)
-
-## ✦ Featured projects
-
-| Project | Mission | Technologies |
-| --- | --- | --- |
-| [**Hybrid Phishing Detection**](https://github.com/jiyasahni-maker/hybrid-phishing-detection) | Phishing website detection using dual feature selection and a soft-voting ensemble | Python · Scikit-learn · XGBoost |
-| [**Drexli**](https://github.com/jiyasahni-maker/Drexli) | Opportunity discovery and evidence review using TinyFish Search and Fetch | Python · Streamlit · TinyFish · SQLite |
-| [**Plum Cake**](https://github.com/jiyasahni-maker/plum-cake) | Celestial single-scroll portfolio with Three.js animation | Next.js · React · Three.js |
-
-## ✦ Live GitHub observatory
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=jiyasahni-maker&show_icons=true&include_all_commits=true&hide_border=true&bg_color=090d1e&title_color=e6b7d8&icon_color=a995e8&text_color=eeeaf6" height="165" alt="Live GitHub profile statistics" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jiyasahni-maker&layout=compact&langs_count=8&hide_border=true&bg_color=090d1e&title_color=e6b7d8&text_color=eeeaf6" height="165" alt="Top languages from GitHub repositories" />
-
-<img src="https://streak-stats.demolab.com?user=jiyasahni-maker&hide_border=true&background=090d1e&ring=e6b7d8&fire=e6b7d8&currStreakLabel=eeeaf6&sideLabels=eeeaf6&dates=aaa6c4" alt="GitHub contribution streak" />
-
-</div>
-
-### ✧ Contribution constellation
+<h2 align="center">☾ The Observer</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiyasahni-maker/jiyasahni-maker/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+  <b>Cybersecurity &nbsp;·&nbsp; Applied Machine Learning &nbsp;·&nbsp; Intelligent Systems</b>
 </p>
 
-<sub>Statistics and contribution visuals are generated from GitHub activity. Community-hosted stat services may occasionally be unavailable or rate-limited.</sub>
+<p align="center">
+  I develop practical systems at the intersection of cybersecurity
+  and machine learning, with a focus on security analysis,
+  explainable models and evidence-driven automation.
+  My work combines technical research, systematic experimentation
+  and applied engineering to address real-world problems.
+</p>
 
-## ✦ Find me
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☽ Cybersecurity</h3>
+      Red Teaming · Threat Analysis · Security Research · Phishing Detection
+    </td>
+    <td align="center" width="50%">
+      <h3>✧ Artificial Intelligence</h3>
+      Applied ML · Ensemble Learning · Explainable AI · Intelligent Agents
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      B.Tech · Computer Science & Engineering
+    </td>
+  </tr>
+</table>
 
-- [GitHub](https://github.com/jiyasahni-maker)
-- [LinkedIn](https://www.linkedin.com/in/jiya-sahni2020)
+<p align="center">
+  <sub>✦ Engineering with precision. Evaluating with evidence. ✦</sub>
+</p>
 
 ---
 
-<div align="center">
+<!-- ✧ THE CONSTELLATION ✧ -->
 
-*Somewhere between breaking systems and building intelligence, I'm creating my own universe.*
+<h2 align="center">✧ Technologies in My Orbit</h2>
 
-<sub>Made with curiosity, code, and a little cosmic inspiration · Jiya Sahni</sub>
+<p align="center">
+  <sub>Technical tools and frameworks used across my development and research work.</sub>
+</p>
 
-</div>
+<p align="center">
+  <b>⌘ PROGRAMMING</b><br/><br/>
+  <img src="https://img.shields.io/badge/Python-B9A0E8?style=for-the-badge&logo=python&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/C-B9A0E8?style=for-the-badge&logo=c&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/JavaScript-B9A0E8?style=for-the-badge&logo=javascript&logoColor=171329"/>
+</p>
+
+<p align="center">
+  <b>☽ ARTIFICIAL INTELLIGENCE & DATA SCIENCE</b><br/><br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-D8B4F8?style=for-the-badge&logo=scikitlearn&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/XGBoost-D8B4F8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-D8B4F8?style=for-the-badge&logo=pandas&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/NumPy-D8B4F8?style=for-the-badge&logo=numpy&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/SHAP-D8B4F8?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>✧ DEVELOPMENT & SECURITY</b><br/><br/>
+  <img src="https://img.shields.io/badge/React-C5B3FF?style=for-the-badge&logo=react&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/Node.js-C5B3FF?style=for-the-badge&logo=nodedotjs&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/Flutter-C5B3FF?style=for-the-badge&logo=flutter&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/Linux-C5B3FF?style=for-the-badge&logo=linux&logoColor=171329"/>
+  <img src="https://img.shields.io/badge/Git-C5B3FF?style=for-the-badge&logo=git&logoColor=171329"/>
+</p>
+
+---
+
+<!-- ✧ THE DISCOVERIES ✧ -->
+
+<h2 align="center">✦ Selected Projects</h2>
+
+<p align="center">
+  <sub>Applied research and engineering across cybersecurity, machine learning and software development.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <h3>☽ Hybrid Phishing Detection</h3>
+      <sub>CYBERSECURITY & APPLIED ML</sub>
+    </td>
+    <td>
+      A machine learning-based phishing detection system combining dual feature selection with a soft-voting ensemble to classify potentially malicious websites.
+      <br/><br/>
+      <sub>Python · Scikit-learn · XGBoost</sub>
+      <br/>
+      <a href="https://github.com/jiyasahni-maker/hybrid-phishing-detection">↗ View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>✧ Drexli</h3>
+      <sub>INTELLIGENT AUTOMATION</sub>
+    </td>
+    <td>
+      An opportunity verification agent that discovers listings, extracts relevant information and evaluates supporting web evidence to help users assess opportunities before applying.
+      <br/><br/>
+      <sub>Python · Streamlit · TinyFish · SQLite</sub>
+      <br/>
+      <a href="https://github.com/jiyasahni-maker/Drexli">↗ View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>☼ Plum Cake</h3>
+      <sub>INTERACTIVE WEB DEVELOPMENT</sub>
+    </td>
+    <td>
+      A single-scroll portfolio experience built with Next.js and React, incorporating Three.js for immersive, interactive visualisation.
+      <br/><br/>
+      <sub>Next.js · React · Three.js</sub>
+      <br/>
+      <a href="https://github.com/jiyasahni-maker/plum-cake">↗ View repository</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>✧ Focused on building, testing and refining systems that solve meaningful problems. ✧</sub>
+</p>
