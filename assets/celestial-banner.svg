@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Jiya Sahni — Celestial universe</title><desc id="desc">An animated deep-space scene with a violet nebula, stars, orbital rings, and a glowing planet.</desc>
+<defs>
+ <radialGradient id="bg"><stop stop-color="#34204f"/><stop offset=".48" stop-color="#11152f"/><stop offset="1" stop-color="#070914"/></radialGradient>
+ <radialGradient id="neb"><stop stop-color="#d88bbd" stop-opacity=".65"/><stop offset=".42" stop-color="#8a5bc5" stop-opacity=".3"/><stop offset="1" stop-color="#15122b" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ring"><stop stop-color="#f3b6d8" stop-opacity="0"/><stop offset=".5" stop-color="#d7b2ff" stop-opacity=".8"/><stop offset="1" stop-color="#7de4ec" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/><ellipse cx="850" cy="250" rx="720" ry="330" fill="url(#neb)"/>
+<g fill="#fff2fa"><circle cx="120" cy="88" r="2"/><circle cx="260" cy="370" r="1.5"/><circle cx="420" cy="140" r="2"/><circle cx="610" cy="440" r="1.5"/><circle cx="760" cy="80" r="1.5"/><circle cx="1020" cy="130" r="2"/><circle cx="1230" cy="400" r="1.5"/><circle cx="1450" cy="150" r="2"/><circle cx="1510" cy="320" r="1.4"/></g>
+<g fill="#eacaff" filter="url(#glow)"><circle cx="330" cy="245" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="3.8s" repeatCount="indefinite"/></circle><circle cx="1120" cy="90" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="4.6s" repeatCount="indefinite"/></circle><circle cx="1380" cy="260" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/></circle></g>
+<g transform="translate(1110 270)"><circle r="130" fill="#6d4d9b" opacity=".18"/><circle r="90" fill="#171b3c" stroke="#c59fe9" stroke-opacity=".65" stroke-width="2"/><path d="M-80 -24 Q0 -95 80 -18 Q15 30 -80 35Z" fill="#b28ad5" opacity=".28"/><ellipse rx="180" ry="47" fill="none" stroke="url(#ring)" stroke-width="5" transform="rotate(-18)"/><ellipse rx="220" ry="65" fill="none" stroke="#b9a4e9" stroke-opacity=".25" stroke-width="1.5" transform="rotate(-18)"><animateTransform attributeName="transform" type="rotate" from="-18 0 0" to="342 0 0" dur="48s" repeatCount="indefinite"/></ellipse></g>
+<g fill="#f5d6ef" font-family="Georgia,serif"><text x="105" y="215" font-size="24" letter-spacing="8" opacity=".8">WELCOME TO MY UNIVERSE</text><text x="100" y="305" font-size="84" font-weight="bold">Jiya Sahni</text><text x="106" y="355" font-size="25" letter-spacing="3" fill="#cbb8f0">CYBERSECURITY  ✦  ARTIFICIAL INTELLIGENCE</text></g>
+<path d="M100 410 Q420 370 720 420" fill="none" stroke="#d5a8e7" stroke-opacity=".25" stroke-width="1"/><circle cx="710" cy="420" r="4" fill="#f5c6e9"><animate attributeName="r" values="2;5;2" dur="2.8s" repeatCount="indefinite"/></circle>
+</svg>
