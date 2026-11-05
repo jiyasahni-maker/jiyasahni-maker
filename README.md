@@ -57,8 +57,8 @@ I build practical systems at the intersection of cybersecurity and machine learn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiyasahni-maker&show_icons=true&include_all_commits=true&hide_border=true&bg_color=090d1e&title_color=e6b7d8&icon_color=a995e8&text_color=eeeaf6" height="165" alt="Live GitHub profile statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasahni-maker&layout=compact&langs_count=8&hide_border=true&bg_color=090d1e&title_color=e6b7d8&text_color=eeeaf6" height="165" alt="Top languages from GitHub repositories" />
+<img src="https://github-stats-extended.vercel.app/api?username=jiyasahni-maker&show_icons=true&include_all_commits=true&hide_border=true&bg_color=090d1e&title_color=e6b7d8&icon_color=a995e8&text_color=eeeaf6" height="165" alt="Live GitHub profile statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jiyasahni-maker&layout=compact&langs_count=8&hide_border=true&bg_color=090d1e&title_color=e6b7d8&text_color=eeeaf6" height="165" alt="Top languages from GitHub repositories" />
 
 <img src="https://streak-stats.demolab.com?user=jiyasahni-maker&hide_border=true&background=090d1e&ring=e6b7d8&fire=e6b7d8&currStreakLabel=eeeaf6&sideLabels=eeeaf6&dates=aaa6c4" alt="GitHub contribution streak" />
 
